@@ -1,7 +1,7 @@
 # Coursera Subtitle Google Translate UserScript
 
 ## Description
-This UserScript is designed to improve the user experience on Coursera while watching training videos. It allows you to export the translated text from the Chrome page renderer that appears below the video to the video itself. In addition, it automatically disables the default subtitles shown in the video and you have to manually translate the web page into your preferred language using the browser's built-in page translation feature.
+It allows you to export the translated text from the Chrome page renderer that appears below the video to the video itself. In addition, it automatically disables the default subtitles shown in the video and you have to manually translate the web page into your preferred language using the browser's built-in page translation feature.
 
 ## Installation
 To use this UserScript, you need a browser extension like Tampermonkey (for Chrome) or Greasemonkey (for Firefox) installed. Follow the steps below to install the script:
