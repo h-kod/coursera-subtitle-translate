@@ -1,5 +1,7 @@
 # Coursera Subtitle Google Translate UserScript
 
+![Screenshot](screenshot.png)  
+
 ## Description
 It allows you to export the translated text from the Chrome page renderer that appears below the video to the video itself. In addition, it automatically disables the default subtitles shown in the video and you have to manually translate the web page into your preferred language using the browser's built-in page translation feature.
 
